@@ -1,0 +1,1 @@
+En el sistema decimal se utiliza el caracter “-” para representar los números negativos. Entonces, cómo es posible “simular” el signo en una computadora? Reservando un bit para eso! Y qué significado tiene ese bit?
